@@ -1,24 +1,17 @@
 # README
+* Ruby version:2.6.6  
+# RailsへのMarkdownの導入
+### ・(大・中・小)見出しの設定と文字サイズの対応
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### ・コードをRubyのコードと認識するように設定
+```
+[```rb
+puts "hello world"
+```
 
-Things you may want to cover:
+```
 
-* Ruby version
+### (作動方法)  
+コマンドで作動させるディレクトリに移動した後、```rails s```でサーバーを起動。　　
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[localhost:3000/admin]を検索。
