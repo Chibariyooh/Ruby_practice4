@@ -6,8 +6,7 @@
 ### ・コードをRubyのコードと認識するように設定
 ```
 ```rb
-puts "hello world"
-```
+puts "hello world"```
 
 ```
 
